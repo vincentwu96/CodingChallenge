@@ -1,0 +1,22 @@
+table, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    display: inline-table;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+td{
+  height: 5px;
+}
+h3{
+  text-align: center;
+}
+body {
+  margin: 5;
+  padding: 5;
+}
+div.DisplayData{
+  text-align:center;
+}
